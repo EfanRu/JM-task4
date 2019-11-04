@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b579e6b6-b324-4526-b87e-b24a2cc14a46" name="Default Changelist" comment="" />
+    <list default="true" id="b579e6b6-b324-4526-b87e-b24a2cc14a46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jm/task/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jm/task/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/Flyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/KeywordAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/Label.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/NegativeTextAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/SpamAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/TextAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/TooLongTextAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jm/task/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jm/task/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jm/task/task4/UntrustworthyMailWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jm/task/task4/UntrustworthyMailWorker.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +35,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RnG45qXEn7IuTdePwUlgmvfBun" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -38,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
+  <component name="RunManager" selected="Application.Pair">
     <configuration name="CodeWars (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWars" />
       <method v="2">
@@ -59,8 +81,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jm.task.Pair" />
+      <module name="codeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jm.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jm.task.Test" />
+      <module name="codeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jm.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pair" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.CodeWars" />
         <item itemvalue="Application.CodeWars (1)" />
@@ -79,5 +129,32 @@
       <updated>1570295252221</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jm/task/Pair.java</url>
+          <line>35</line>
+          <properties class="jm.task.Pair.DynamicArray" method="add">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
