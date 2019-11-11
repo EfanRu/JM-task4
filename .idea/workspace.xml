@@ -2,23 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b579e6b6-b324-4526-b87e-b24a2cc14a46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jm/task/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jm/task/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jm/task/task6/MailMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jm/task/task6/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jm/task/task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jm/task/task6/Salary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeWars/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeWars/Flyable.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/codeWars/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/KeywordAnalyzer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/Label.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/NegativeTextAnalyzer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/SpamAnalyzer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/TextAnalyzer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/TooLongTextAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeWars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jm/task/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jm/task/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jm/task/task4/UntrustworthyMailWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jm/task/task4/UntrustworthyMailWorker.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pair">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="CodeWars (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWars" />
       <method v="2">
@@ -109,9 +100,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Pair" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.CodeWars" />
         <item itemvalue="Application.CodeWars (1)" />
       </list>
@@ -128,6 +119,14 @@
       <option name="presentableId" value="Default" />
       <updated>1570295252221</updated>
     </task>
+    <task id="LOCAL-00001" summary="6.1.13">
+      <created>1572888335550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572888335550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +141,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="6.1.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.1.13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
