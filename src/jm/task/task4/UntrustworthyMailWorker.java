@@ -17,6 +17,9 @@ public class UntrustworthyMailWorker implements MailService {
         for (MailService ms : arrOfMailService) {
             mail = ms.processMail(mail);
         }
+
+        new Exception().getStackTrace()[2].getMethodName();
+
         return getRealMailService().processMail(mail);
     }
 }

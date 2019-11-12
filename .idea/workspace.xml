@@ -1,8 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b579e6b6-b324-4526-b87e-b24a2cc14a46" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="2b7338a7-8a38-47cb-8854-ffbfbbbac006" name="Default Changelist" comment="Don't working var0.1">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/id_rsa_new" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/id_rsa_new.pub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/Pair$DynamicArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/Test$Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jm/task/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jm/task/task6/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jm/task/task6/MailMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jm/task/task6/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jm/task/task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jm/task/task6/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jm/task/task6/Sentable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/CodeWars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/CodeWars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/Flyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/NumberGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/Heap/NegativeTextAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/Heap/NegativeTextAnalyzer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/Heap/SpamAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/Heap/SpamAnalyzer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/Heap/TextAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/Heap/TextAnalyzer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/Heap/TooLongTextAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/Heap/TooLongTextAnalyzer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/KeywordAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/Heap/KeywordAnalyzer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/Label.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/Heap/Label.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/NegativeTextAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/SpamAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/TextAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/TooLongTextAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/AbstractSendable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/AbstractSendable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/IllegalPackageException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/IllegalPackageException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/Inspector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/Inspector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/MailMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/MailMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/MailPackage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/MailPackage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/MailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/MailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/Package.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/Package.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/RealMailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/RealMailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/Sendable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/Sendable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/Spy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/Spy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/StolenPackageException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/StolenPackageException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/Thief.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/Thief.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/UntrustworthyMailWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/jm/task/task4/UntrustworthyMailWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeWars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jm/task/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jm/task/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jm/task/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jm/task/task4/UntrustworthyMailWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jm/task/task4/UntrustworthyMailWorker.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,20 +61,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="ProjectId" id="1RnG45qXEn7IuTdePwUlgmvfBun" />
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\tanch\IdeaProjects\codeWars\src\jm\task\Heap" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,32 +77,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="CodeWars (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWars" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CodeWars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWars" />
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jm.task.task6.Main" />
       <module name="codeWars" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main2" />
-      <module name="codeWars" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jm.task.task6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.CodeWars" />
-        <item itemvalue="Application.CodeWars (1)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -71,17 +102,21 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="b579e6b6-b324-4526-b87e-b24a2cc14a46" name="Default Changelist" comment="" />
-      <created>1570295252221</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1570295252221</updated>
-    </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="for update" />
-    <option name="LAST_COMMIT_MESSAGE" value="for update" />
+    <MESSAGE value="Don't working var0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Don't working var0.1" />
   </component>
 </project>
